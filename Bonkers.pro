@@ -44,7 +44,7 @@ FORMS += \
 unix {
     target.path = /usr/lib
 
-    INSTALLS += target appentry icon
+    INSTALLS += target
 }
 
 RESOURCES += \

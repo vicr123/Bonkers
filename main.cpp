@@ -20,12 +20,14 @@
 #include "crasheddialog.h"
 #include <QApplication>
 
+#include <tapplication.h>
 #include <QCommandLineParser>
 #include <QTextStream>
 
 int main(int argc, char *argv[])
 {
-    QApplication a(argc, argv);
+    tApplication a(argc, argv);
+    a.installTranslators();
 
     QCommandLineParser parser;
     parser.addOption({"appname", "Application Name", "appname"});

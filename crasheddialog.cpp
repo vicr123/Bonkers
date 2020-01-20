@@ -45,7 +45,7 @@ CrashedDialog::CrashedDialog(CrashedArgs args, QWidget *parent) :
     ui->relaunchButton->setText(tr("Relaunch %1").arg(args.appName));
     ui->closeButton->setText(tr("Exit %1").arg(args.appName));
 
-    QSize buttonIconSize = QSize(16, 16) * theLibsGlobal::getDPIScaling();
+    QSize buttonIconSize = SC_DPI_T(QSize(16, 16), QSize);
     ui->relaunchButton->setIconSize(buttonIconSize);
     ui->closeButton->setIconSize(buttonIconSize);
     ui->moreInfoButton->setIconSize(buttonIconSize);

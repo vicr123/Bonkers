@@ -4,7 +4,8 @@
 #
 #-------------------------------------------------
 
-QT       += core gui thelib network
+QT       += core gui network
+SHARE_APP_NAME = bonkers
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -40,12 +41,31 @@ FORMS += \
     vicr123filebugwidget/totpcoderequest.ui \
     vicr123filebugwidget/vicr123filebugwidget.ui
 
+unix:!macx {
+    # Include the-libs build tools
+    include(/usr/share/the-libs/pri/buildmaster.pri)
 
-unix {
-    target.path = /usr/lib
+    QT += thelib
 
-    INSTALLS += target
+    target.path = /usr/bin
+
+    INSTALLS += target cols
 }
+
+win32 {
+    # Include the-libs build tools
+    include(C:/Program Files/thelibs/pri/buildmaster.pri)
+
+    QT += thelib
+    INCLUDEPATH += "C:/Program Files/thelibs/include"
+    LIBS += -L"C:/Program Files/thelibs/lib" -lthe-libs
+}
+
+macx {
+    # Bonkers should not be built on macOS
+    error(Bonkers should not be built on macOS because the inbuilt reporting dialog is good enough)
+}
+
 
 RESOURCES += \
     resources.qrc

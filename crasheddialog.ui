@@ -86,7 +86,7 @@
        <item>
         <widget class="QLabel" name="messageLabel">
          <property name="text">
-          <string>Application Name had a problem and has stopped working.</string>
+          <string notr="true">Application Name had a problem and has stopped working.</string>
          </property>
          <property name="margin">
           <number>9</number>

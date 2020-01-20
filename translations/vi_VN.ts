@@ -1,42 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" sourcelanguage="en_US">
+<TS version="2.1" language="vi_VN" sourcelanguage="en_US">
 <context>
     <name>CrashedDialog</name>
     <message>
-        <location filename="../crasheddialog.ui" line="66"/>
-        <source>Application Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../crasheddialog.ui" line="112"/>
         <source>Start the application again</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../crasheddialog.ui" line="119"/>
-        <source>Exit Application Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Khởi chạy ứng dụng lại</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="132"/>
         <source>Stop running the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Khỏi chạy ứng dụng</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="152"/>
         <source>More Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Thêm thông tin</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="165"/>
         <source>Show more information about the problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiện thêm thông tin về vấn đề</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="172"/>
         <source>File Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Báo cáo lỗi</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="185"/>
@@ -46,7 +36,7 @@
     <message>
         <location filename="../crasheddialog.ui" line="247"/>
         <source>Information about this problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Thông tin về vấn đề này</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="292"/>
@@ -55,27 +45,31 @@
 When reporting a bug, if any debugging information is available, please attach it to the bug report.
 
 It&apos;s a good idea to check through the contents of the available debugging information here for any personal information and redact it before you attach it to a bug report.</source>
-        <translation type="unfinished"></translation>
+        <translation>Thông tin gỡ lỗi này có thể giúp nhà phát triển sửa vấn đề này. Bạn có thể lưu thông tin gỡ lỗi này vào tệp để tham khảo sau, hoặc để đính kèm vào một báo cáo lỗi.
+
+Khi báo cáo lỗi, nếu gõ thông tin gỡ lỗi nào, vui lòng đính kèm nó vào cái báo cáo.
+
+Bạn nên kiểm tra nội dung đây cho thông tin cá nhân và ẩn lại trước khi bạn đính kèm nó vào một báo cáo.</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="44"/>
         <source>Sorry, %1 had a problem and has stopped working.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rất tiếc, %1 gặp vấn đề và bị buộc dừng.</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="45"/>
         <source>Relaunch %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Khởi chạy %1 lại</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="46"/>
         <source>Exit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Thoát %1</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="134"/>
         <source>Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tệp văn bản</translation>
     </message>
 </context>
 <context>
@@ -106,7 +100,7 @@ It&apos;s a good idea to check through the contents of the available debugging i
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="77"/>
         <source>File Bug</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Báo cáo lỗi</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="102"/>

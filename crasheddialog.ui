@@ -63,7 +63,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Application Name</string>
+          <string notr="true">Application Name</string>
          </property>
          <property name="margin">
           <number>9</number>
@@ -116,7 +116,7 @@
        <item>
         <widget class="QCommandLinkButton" name="closeButton">
          <property name="text">
-          <string>Exit Application Name</string>
+          <string notr="true">Exit Application Name</string>
          </property>
          <property name="icon">
           <iconset theme="application-exit">

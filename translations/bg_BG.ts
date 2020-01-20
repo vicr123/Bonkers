@@ -4,18 +4,8 @@
 <context>
     <name>CrashedDialog</name>
     <message>
-        <location filename="../crasheddialog.ui" line="66"/>
-        <source>Application Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../crasheddialog.ui" line="112"/>
         <source>Start the application again</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../crasheddialog.ui" line="119"/>
-        <source>Exit Application Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

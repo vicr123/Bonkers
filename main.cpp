@@ -23,10 +23,20 @@
 #include <tapplication.h>
 #include <QCommandLineParser>
 #include <QTextStream>
+#include <QDir>
 
 int main(int argc, char *argv[])
 {
     tApplication a(argc, argv);
+
+#ifdef Q_OS_LINUX
+    if (QDir("/usr/share/bonkers").exists()) {
+        a.setShareDir("/usr/share/bonkers");
+    } else if (QDir(QDir::cleanPath(QApplication::applicationDirPath() + "/../share/bonkers/")).exists()) {
+        a.setShareDir(QDir::cleanPath(QApplication::applicationDirPath() + "/../share/bonkers/"));
+    }
+#endif
+
     a.installTranslators();
 
     QCommandLineParser parser;

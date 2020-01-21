@@ -6,37 +6,37 @@
     <message>
         <location filename="../crasheddialog.ui" line="112"/>
         <source>Start the application again</source>
-        <translation type="unfinished"></translation>
+        <translation>De applicatie opnieuw starten</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="132"/>
         <source>Stop running the application</source>
-        <translation type="unfinished"></translation>
+        <translation>De applicatie stoppen</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="152"/>
         <source>More Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer Informatie</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="165"/>
         <source>Show more information about the problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer informatie laten zien over het probleem</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="172"/>
         <source>File Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Meld Bug</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="185"/>
         <source>File a bug report to the developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Een bug melden aan de ontwikkelaar</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="247"/>
         <source>Information about this problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Informatie over dit probleem</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="292"/>

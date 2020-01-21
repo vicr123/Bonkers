@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>StackedWidget</string>
+   <string notr="true">StackedWidget</string>
   </property>
   <property name="currentIndex">
    <number>1</number>
@@ -53,7 +53,8 @@
          <string/>
         </property>
         <property name="icon">
-         <iconset theme="go-previous"/>
+         <iconset theme="go-previous">
+          <normaloff>.</normaloff>.</iconset>
         </property>
         <property name="flat">
          <bool>true</bool>
@@ -292,7 +293,8 @@ Since the developer may need to ask further questions, you'll be asked to log in
            <string>Next Page</string>
           </property>
           <property name="icon">
-           <iconset theme="go-next"/>
+           <iconset theme="go-next">
+            <normaloff>.</normaloff>.</iconset>
           </property>
          </widget>
         </item>
@@ -467,7 +469,8 @@ Since the developer may need to ask further questions, you'll be asked to log in
            <string>Log In</string>
           </property>
           <property name="icon">
-           <iconset theme="go-next"/>
+           <iconset theme="go-next">
+            <normaloff>.</normaloff>.</iconset>
           </property>
          </widget>
         </item>

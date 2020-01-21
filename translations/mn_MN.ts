@@ -4,6 +4,11 @@
 <context>
     <name>CrashedDialog</name>
     <message>
+        <location filename="../crasheddialog.ui" line="14"/>
+        <source>Oh, Bonkers!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../crasheddialog.ui" line="112"/>
         <source>Start the application again</source>
         <translation type="unfinished"></translation>
@@ -71,17 +76,12 @@ It&apos;s a good idea to check through the contents of the available debugging i
 <context>
     <name>TotpCodeRequest</name>
     <message>
-        <location filename="../vicr123filebugwidget/totpcoderequest.ui" line="14"/>
-        <source>Form</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vicr123filebugwidget/totpcoderequest.ui" line="70"/>
+        <location filename="../vicr123filebugwidget/totpcoderequest.ui" line="71"/>
         <source>Two Factor Authentication</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/totpcoderequest.ui" line="112"/>
+        <location filename="../vicr123filebugwidget/totpcoderequest.ui" line="113"/>
         <source>Obtain a verification code to verify your identity by opening the Two Factor Authentication app on your phone.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -89,77 +89,72 @@ It&apos;s a good idea to check through the contents of the available debugging i
 <context>
     <name>Vicr123FileBugWidget</name>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="14"/>
-        <source>StackedWidget</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="77"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="78"/>
         <source>File Bug</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="102"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="103"/>
         <source>Thanks for offering to report this bug. We&apos;ll just need you to answer a few questions, and then we&apos;ll be on our way!
 
 Since the developer may need to ask further questions, you&apos;ll be asked to log into or create an account on the vicr123 bugtracking system as part of the bug reporting process. If you do not want us to contact you, you may back out of the bug reporting process at any time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="153"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="154"/>
         <source>REPRODUCIBILITY</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="160"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="161"/>
         <source>Are you able to tell us what you did when the app stopped working?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="182"/>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="237"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="183"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="238"/>
         <source>Yes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="189"/>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="244"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="190"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="245"/>
         <source>No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="215"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="216"/>
         <source>If you perform the same steps, does the problem recur?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="254"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="255"/>
         <source>Intermittently</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="292"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="293"/>
         <source>Next Page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="377"/>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="467"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="379"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="469"/>
         <source>Log In</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="419"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="421"/>
         <source>Log into the vicr123 Bug Reporting System using your username and password. If you don&apos;t have an account, you can register for one at &lt;a href=&quot;https://bugs.vicr123.com/&quot;&gt;bugs.vicr123.com&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="432"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="434"/>
         <source>Username</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="442"/>
+        <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="444"/>
         <source>Password</source>
         <translation type="unfinished"></translation>
     </message>

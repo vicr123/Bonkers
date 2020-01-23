@@ -50,27 +50,31 @@
 When reporting a bug, if any debugging information is available, please attach it to the bug report.
 
 It&apos;s a good idea to check through the contents of the available debugging information here for any personal information and redact it before you attach it to a bug report.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze debug-informatie kan de ontwikkelaar helpen om dit probleem op te lossen. Je kunt deze debug-informatie opslaan naar een bestand om later te gebruiken, of het bijsluiten in een bugrapport.
+
+Als je een bug rapporteert, sluit dan debug-informatie bij, als die beschikbaar is.
+
+Het is een goed idee om de inhoud van de hier beschikbare debug-informatie te bekijken  en persoonlijke informatie weg te halen voordat je het bijsluit in een bugrapport.</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="44"/>
         <source>Sorry, %1 had a problem and has stopped working.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, %1 had een probleem en is gestopt met werken.</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="45"/>
         <source>Relaunch %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Opnieuw Opstarten</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="46"/>
         <source>Exit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Afsluiten</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="134"/>
         <source>Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstbestand</translation>
     </message>
 </context>
 <context>

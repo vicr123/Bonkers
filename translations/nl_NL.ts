@@ -6,7 +6,7 @@
     <message>
         <location filename="../crasheddialog.ui" line="14"/>
         <source>Oh, Bonkers!</source>
-        <translation type="unfinished"></translation>
+        <translation>Oh, Waanzinnig!</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="112"/>
@@ -54,7 +54,7 @@ It&apos;s a good idea to check through the contents of the available debugging i
 
 Als je een bug rapporteert, sluit dan debug-informatie bij, als die beschikbaar is.
 
-Het is een goed idee om de inhoud van de hier beschikbare debug-informatie te bekijken  en persoonlijke informatie weg te halen voordat je het bijsluit in een bugrapport.</translation>
+Het is een goed idee om de inhoud van de hier beschikbare debug-informatie te bekijken en persoonlijke informatie weg te halen voordat je het bijsluit in een bugrapport.</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="44"/>
@@ -82,12 +82,12 @@ Het is een goed idee om de inhoud van de hier beschikbare debug-informatie te be
     <message>
         <location filename="../vicr123filebugwidget/totpcoderequest.ui" line="71"/>
         <source>Two Factor Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Twee-factorauthenticatie</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/totpcoderequest.ui" line="113"/>
         <source>Obtain a verification code to verify your identity by opening the Two Factor Authentication app on your phone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pak er een verificatiecode bij om je identiteit te verifiëren door de twee-factorauthenticatie-app op je telefoon te openen.</translation>
     </message>
 </context>
 <context>
@@ -95,99 +95,101 @@ Het is een goed idee om de inhoud van de hier beschikbare debug-informatie te be
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="78"/>
         <source>File Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Een Bug Rapporteren</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="103"/>
         <source>Thanks for offering to report this bug. We&apos;ll just need you to answer a few questions, and then we&apos;ll be on our way!
 
 Since the developer may need to ask further questions, you&apos;ll be asked to log into or create an account on the vicr123 bugtracking system as part of the bug reporting process. If you do not want us to contact you, you may back out of the bug reporting process at any time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedankt dat je aanbiedt deze bug te rapporteren. We hebben nog antwoord nodig op een paar vragen, en daarna zijn we onderweg!
+
+Omdat de ontwikkelaar misschien meer vragen moet stellen, vragen we je zo om een account te maken of in te loggen op het vicr123-bugtrackingsysteem tijdens het rapporteren van de bug. Als je niet wilt dat we contact met je opnemen, kun je altijd terug gaan uit het rapporteren van de bug.</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="154"/>
         <source>REPRODUCIBILITY</source>
-        <translation type="unfinished"></translation>
+        <translation>REPRODUCEERBAARHEID</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="161"/>
         <source>Are you able to tell us what you did when the app stopped working?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kun je vertellen wat je aan het doen was toen de app stopte met werken?</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="183"/>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="238"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="190"/>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="245"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="216"/>
         <source>If you perform the same steps, does the problem recur?</source>
-        <translation type="unfinished"></translation>
+        <translation>Als je dezelfde stappen nog een keer zet, komt het probleem dan terug?</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="255"/>
         <source>Intermittently</source>
-        <translation type="unfinished"></translation>
+        <translation>Soms</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="293"/>
         <source>Next Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende Pagina</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="379"/>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="469"/>
         <source>Log In</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggen</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="421"/>
         <source>Log into the vicr123 Bug Reporting System using your username and password. If you don&apos;t have an account, you can register for one at &lt;a href=&quot;https://bugs.vicr123.com/&quot;&gt;bugs.vicr123.com&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Log in bij het vicr123-bugrapportagesysteem met je gebruikersnaam en wachtwoord. Als je geen account hebt, kun je je gratis registreren op &lt;a href=&quot;https://bugs.vicr123.com/&quot;&gt;bugs.vicr123.com&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="434"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="444"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Wachtwoord</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.cpp" line="125"/>
         <source>Logged in!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingelogd!</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.cpp" line="126"/>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.cpp" line="149"/>
         <source>Correct your password and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbeter je wachtwoord en probeer het opnieuw.</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.cpp" line="148"/>
         <source>Incorrect Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkeerd Wachtwoord</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.cpp" line="155"/>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.cpp" line="171"/>
         <source>Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Er ging iets mis</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.cpp" line="156"/>
         <source>Couldn&apos;t get to the bug reporting server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon niet bij de bugrapportageserver komen.</translation>
     </message>
 </context>
 </TS>

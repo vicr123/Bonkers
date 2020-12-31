@@ -6,42 +6,42 @@
     <message>
         <location filename="../crasheddialog.ui" line="14"/>
         <source>Oh, Bonkers!</source>
-        <translation type="unfinished"></translation>
+        <translation>Och, Oszołomienie!</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="112"/>
         <source>Start the application again</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom aplikacje ponownie</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="132"/>
         <source>Stop running the application</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatrzymaj uruchomienie aplikacji</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="152"/>
         <source>More Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej Informacji</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="165"/>
         <source>Show more information about the problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Przedstaw więcej informacji o problemie</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="172"/>
         <source>File Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik Bug</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="185"/>
         <source>File a bug report to the developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgłoś błąd do programisty</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="247"/>
         <source>Information about this problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacja o tym problemie</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="292"/>
@@ -50,27 +50,31 @@
 When reporting a bug, if any debugging information is available, please attach it to the bug report.
 
 It&apos;s a good idea to check through the contents of the available debugging information here for any personal information and redact it before you attach it to a bug report.</source>
-        <translation type="unfinished"></translation>
+        <translation>Te informacje dotyczące debugowania mogą pomóc programiście rozwiązać ten problem. Możesz zapisać te informacje debugowania w pliku do późniejszego wykorzystania lub dołączyć je do raportu o błędzie.
+
+Podczas zgłaszania błędu, jeśli dostępne są jakiekolwiek informacje dotyczące debugowania, załącz je do zgłoszenia błędu.
+
+Dobrym pomysłem jest przejrzenie dostępnych tutaj informacji o debugowaniu pod kątem jakichkolwiek danych osobowych i zredagowanie ich przed załączeniem do zgłoszenia o błędzie.</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="44"/>
         <source>Sorry, %1 had a problem and has stopped working.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przepraszamy, %1 miał problem i przestał działacz.</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="45"/>
         <source>Relaunch %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom ponownie %1</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="46"/>
         <source>Exit %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyjdź z %1</translation>
     </message>
     <message>
         <location filename="../crasheddialog.cpp" line="134"/>
         <source>Text File</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstowy Plik</translation>
     </message>
 </context>
 <context>
@@ -78,7 +82,7 @@ It&apos;s a good idea to check through the contents of the available debugging i
     <message>
         <location filename="../vicr123filebugwidget/totpcoderequest.ui" line="71"/>
         <source>Two Factor Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Dwu Krotne Potwierdzenie</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/totpcoderequest.ui" line="113"/>
@@ -91,7 +95,7 @@ It&apos;s a good idea to check through the contents of the available debugging i
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="78"/>
         <source>File Bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik Bug</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="103"/>

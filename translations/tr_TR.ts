@@ -152,7 +152,7 @@ Geliştiricinin başka sorular sorması gerekebileceğinden, hata raporlama sür
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="421"/>
         <source>Log into the vicr123 Bug Reporting System using your username and password. If you don&apos;t have an account, you can register for one at &lt;a href=&quot;https://bugs.vicr123.com/&quot;&gt;bugs.vicr123.com&lt;/a&gt;</source>
-        <translation>Kullanıcı adınızı ve şifrenizi kullanarak vicr123 Hata Raporlama Sistemine giriş yapın. Bir hesabınız yoksa, &lt;a href=&quot;https://bugs.vicr123.com/&quot;&gt; bugs.vicr123.com &lt;/a&gt; adresinden kayıt olabilirsiniz.</translation>
+        <translation>Kullanıcı adınızı ve şifrenizi kullanarak vicr123 Hata Raporlama Sistemine giriş yapın. Bir hesabınız yoksa, &lt;a href=&quot;https://bugs.vicr123.com/&quot;&gt;bugs.vicr123.com &lt;/a&gt; adresinden kayıt olabilirsin.</translation>
     </message>
     <message>
         <location filename="../vicr123filebugwidget/vicr123filebugwidget.ui" line="434"/>

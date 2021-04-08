@@ -6,7 +6,7 @@
     <message>
         <location filename="../crasheddialog.ui" line="14"/>
         <source>Oh, Bonkers!</source>
-        <translation type="unfinished"></translation>
+        <translation>Oh, verflixt!</translation>
     </message>
     <message>
         <location filename="../crasheddialog.ui" line="112"/>
